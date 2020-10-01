@@ -1,0 +1,13 @@
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\bin\Debug\netcoreapp3.1\Abstracto_Among_Us.exe
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\bin\Debug\netcoreapp3.1\Abstracto_Among_Us.deps.json
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\bin\Debug\netcoreapp3.1\Abstracto_Among_Us.runtimeconfig.json
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\bin\Debug\netcoreapp3.1\Abstracto_Among_Us.runtimeconfig.dev.json
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\bin\Debug\netcoreapp3.1\Abstracto_Among_Us.dll
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\bin\Debug\netcoreapp3.1\Abstracto_Among_Us.pdb
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.csprojAssemblyReference.cache
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.AssemblyInfo.cs
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.dll
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.pdb
+C:\Users\Max\Documents\Programacion II\Abstracto_Among_Us\obj\Debug\netcoreapp3.1\Abstracto_Among_Us.genruntimeconfig.cache
